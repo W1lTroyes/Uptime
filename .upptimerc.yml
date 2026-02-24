@@ -7,6 +7,8 @@ sites:
     url: https://www.unitel.fr/
   - name: Campus Cyber
     url: https://ares.campuscyber-regionsud.fr/
+  - name: TheCamp
+    url: https://www.thecamp.fr/
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
