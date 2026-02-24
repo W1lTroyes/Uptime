@@ -4,7 +4,9 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Unitel
-    url: https://www.unitel.fr/  
+    url: https://www.unitel.fr/
+  - name: Campus Cyber
+    url: https://ares.campuscyber-regionsud.fr/
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
