@@ -22,7 +22,7 @@
     "url": "https://ares.campuscyber-regionsud.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/ares.campuscyber-regionsud.fr.ico",
     "slug": "campus-cyber",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 605,
     "timeMonth": 665,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-15": 0
+    }
   },
   {
     "name": "TheCamp",
