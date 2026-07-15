@@ -4,18 +4,20 @@
     "url": "https://www.unitel.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unitel.fr.ico",
     "slug": "unitel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 461,
     "timeDay": 344,
     "timeWeek": 352,
     "timeMonth": 424,
     "timeYear": 461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-15": 5
+    }
   },
   {
     "name": "Campus Cyber",
@@ -42,7 +44,7 @@
     "url": "https://www.thecamp.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thecamp.fr.ico",
     "slug": "the-camp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
