@@ -4,19 +4,19 @@
     "url": "https://www.unitel.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unitel.fr.ico",
     "slug": "unitel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "93.77%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.96%",
     "time": 461,
-    "timeDay": 344,
-    "timeWeek": 352,
+    "timeDay": 373,
+    "timeWeek": 358,
     "timeMonth": 424,
     "timeYear": 461,
     "dailyMinutesDown": {
-      "2026-07-15": 5
+      "2026-07-15": 90
     }
   },
   {
@@ -44,17 +44,19 @@
     "url": "https://www.thecamp.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/www.thecamp.fr.ico",
     "slug": "the-camp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "94.11%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.96%",
     "time": 350,
-    "timeDay": 315,
-    "timeWeek": 293,
-    "timeMonth": 310,
+    "timeDay": 331,
+    "timeWeek": 300,
+    "timeMonth": 311,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-15": 85
+    }
   }
 ]
