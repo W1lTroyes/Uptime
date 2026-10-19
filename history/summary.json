@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 454,
-    "timeDay": 383,
-    "timeWeek": 527,
-    "timeMonth": 492,
+    "timeDay": 506,
+    "timeWeek": 531,
+    "timeMonth": 497,
     "timeYear": 454,
     "dailyMinutesDown": {
       "2026-07-15": 90
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1199,
-    "timeDay": 1726,
-    "timeWeek": 1579,
-    "timeMonth": 1591,
-    "timeYear": 1199,
+    "time": 1202,
+    "timeDay": 1978,
+    "timeWeek": 1599,
+    "timeMonth": 1611,
+    "timeYear": 1202,
     "dailyMinutesDown": {
       "2026-04-15": 70
     }
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.thecamp.fr.ico",
     "slug": "the-camp",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 358,
-    "timeDay": 378,
-    "timeWeek": 476,
-    "timeMonth": 428,
-    "timeYear": 358,
+    "uptimeYear": "99.98%",
+    "time": 357,
+    "timeDay": 293,
+    "timeWeek": 478,
+    "timeMonth": 425,
+    "timeYear": 357,
     "dailyMinutesDown": {
       "2026-07-15": 85
     }
